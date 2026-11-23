@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "simulation_to_lab_result_lineage"
-version = "0.1.0"
-description = "科研数据湖合成资料"
+version = "0.2.0"
+description = "仿真批次与实验实测结果的谱系连接、验证关系与差异证据应用"
 requires-python = ">=3.11,<3.15"
 dependencies = []
 
